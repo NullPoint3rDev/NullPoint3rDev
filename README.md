@@ -46,13 +46,11 @@ Focused on **cloud-native** Java, **concurrency**, and **observability**.
 
 ---
 
-### GitHub stats
+### GitHub
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NullPoint3rDev&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NullPoint3rDev&layout=compact&theme=radical&hide_border=true)
+[![Profile Views](https://komarev.com/ghpvc/?username=NullPoint3rDev&color=blueviolet)](https://github.com/NullPoint3rDev)
 
 </div>
 
