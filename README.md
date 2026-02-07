@@ -59,6 +59,7 @@ Focused on **cloud-native** Java, **concurrency**, and **observability**.
 ### Featured
 
 - [**api-rate-limiter**](https://github.com/NullPoint3rDev/api-rate-limiter) — Spring Boot rate limiter (fixed window), Redis + Prometheus + Grafana, Docker Compose
+- [**event-driven-order**](https://github.com/NullPoint3rDev/event-driven-order) — Event-driven order workflow: 5 microservices over Kafka (validation → inventory → payment → notification), Prometheus + Grafana, single-command Docker Compose
 
 ---
 
