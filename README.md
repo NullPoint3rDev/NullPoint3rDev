@@ -62,6 +62,7 @@ Focused on **cloud-native** Java, **concurrency**, and **observability**.
 - [**event-driven-order**](https://github.com/NullPoint3rDev/event-driven-order) — Event-driven order workflow: 5 microservices over Kafka (validation → inventory → payment → notification), Prometheus + Grafana, single-command Docker Compose
 - [**cloud-native-file-processing-pipeline**](https://github.com/NullPoint3rDev/cloud-native-file-processing-pipeline.git) - Event-driven file upload and processing: REST API, RabbitMQ, MinIO (S3), PostgreSQL. Images & PDF processing with thumbnails and text extraction.
 - [**resilient-bff**](https://github.com/NullPoint3rDev/resilient-bff.git) - Reactive BFF that aggregates downstream APIs with circuit breaker, retry, fallbacks, and full observability (Prometheus + Grafana). Spring Boot 3, Java 21.
+- [**distributed-job-scheduler**](https://github.com/NullPoint3rDev/distributed-job-scheduler.git) - Distributed job scheduler with Java 21 & Spring Boot 3. REST API, worker pool, retries, Prometheus metrics. Run with Docker Compose
 
 ---
 
