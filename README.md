@@ -64,6 +64,7 @@ Focused on **cloud-native** Java, **concurrency**, and **observability**.
 - [**resilient-bff**](https://github.com/NullPoint3rDev/resilient-bff.git) - Reactive BFF that aggregates downstream APIs with circuit breaker, retry, fallbacks, and full observability (Prometheus + Grafana). Spring Boot 3, Java 21.
 - [**distributed-job-scheduler**](https://github.com/NullPoint3rDev/distributed-job-scheduler.git) - Distributed job scheduler with Java 21 & Spring Boot 3. REST API, worker pool, retries, Prometheus metrics. Run with Docker Compose
 - [**multi-tenant-saas-core**](https://github.com/NullPoint3rDev/multi-tenant-saas-core.git) - Multi-tenant SaaS backend core: row-level isolation, Java 21 virtual threads, Prometheus/Grafana. Spring Boot 3, PostgreSQL, Flyway.
+- [**saga-orchestrator**](https://github.com/NullPoint3rDev/saga-orchestrator.git) - Lightweight saga orchestration engine for Java with compensation and recovery
 
 ---
 
