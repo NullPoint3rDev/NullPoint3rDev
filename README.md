@@ -65,6 +65,7 @@ Focused on **cloud-native** Java, **concurrency**, and **observability**.
 - [**distributed-job-scheduler**](https://github.com/NullPoint3rDev/distributed-job-scheduler.git) - Distributed job scheduler with Java 21 & Spring Boot 3. REST API, worker pool, retries, Prometheus metrics. Run with Docker Compose
 - [**multi-tenant-saas-core**](https://github.com/NullPoint3rDev/multi-tenant-saas-core.git) - Multi-tenant SaaS backend core: row-level isolation, Java 21 virtual threads, Prometheus/Grafana. Spring Boot 3, PostgreSQL, Flyway.
 - [**saga-orchestrator**](https://github.com/NullPoint3rDev/saga-orchestrator.git) - Lightweight saga orchestration engine for Java with compensation and recovery
+- [**event-sourced-cqrs**](https://github.com/NullPoint3rDev/event-sourced-cqrs.git) - Event Sourcing + CQRS on Java/Spring Boot with Kafka as event store. Docker, Prometheus, Grafana.
 
 ---
 
