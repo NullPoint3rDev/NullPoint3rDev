@@ -66,6 +66,7 @@ Focused on **cloud-native** Java, **concurrency**, and **observability**.
 - [**multi-tenant-saas-core**](https://github.com/NullPoint3rDev/multi-tenant-saas-core.git) - Multi-tenant SaaS backend core: row-level isolation, Java 21 virtual threads, Prometheus/Grafana. Spring Boot 3, PostgreSQL, Flyway.
 - [**saga-orchestrator**](https://github.com/NullPoint3rDev/saga-orchestrator.git) - Lightweight saga orchestration engine for Java with compensation and recovery
 - [**event-sourced-cqrs**](https://github.com/NullPoint3rDev/event-sourced-cqrs.git) - Event Sourcing + CQRS on Java/Spring Boot with Kafka as event store. Docker, Prometheus, Grafana.
+- [**grpc-rest-gateway**](https://github.com/NullPoint3rDev/grpc-rest-gateway.git) - gRPC-first catalog microservice with REST gateway. Java 21, Spring Boot, Protocol Buffers, Docker, Prometheus & Grafana.
 
 ---
 
