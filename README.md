@@ -67,6 +67,7 @@ Focused on **cloud-native** Java, **concurrency**, and **observability**.
 - [**saga-orchestrator**](https://github.com/NullPoint3rDev/saga-orchestrator.git) - Lightweight saga orchestration engine for Java with compensation and recovery
 - [**event-sourced-cqrs**](https://github.com/NullPoint3rDev/event-sourced-cqrs.git) - Event Sourcing + CQRS on Java/Spring Boot with Kafka as event store. Docker, Prometheus, Grafana.
 - [**grpc-rest-gateway**](https://github.com/NullPoint3rDev/grpc-rest-gateway.git) - gRPC-first catalog microservice with REST gateway. Java 21, Spring Boot, Protocol Buffers, Docker, Prometheus & Grafana.
+- [**transactional-outbox-cdc**](https://github.com/NullPoint3rDev/transactional-outbox-cdc.git) - Transactional Outbox pattern with CDC: Spring Boot, Debezium, Kafka, PostgreSQL. One transaction → outbox → Kafka → consumer. Docker Compose, Prometheus, Grafana.
 
 ---
 
