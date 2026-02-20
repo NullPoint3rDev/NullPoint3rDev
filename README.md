@@ -69,6 +69,7 @@ Focused on **cloud-native** Java, **concurrency**, and **observability**.
 - [**grpc-rest-gateway**](https://github.com/NullPoint3rDev/grpc-rest-gateway.git) - gRPC-first catalog microservice with REST gateway. Java 21, Spring Boot, Protocol Buffers, Docker, Prometheus & Grafana.
 - [**transactional-outbox-cdc**](https://github.com/NullPoint3rDev/transactional-outbox-cdc.git) - Transactional Outbox pattern with CDC: Spring Boot, Debezium, Kafka, PostgreSQL. One transaction → outbox → Kafka → consumer. Docker Compose, Prometheus, Grafana.
 - [**distributed-tracing**](https://github.com/NullPoint3rDev/distributed-tracing.git) - Distributed tracing demo with OpenTelemetry and Jaeger — 3 microservices, OTLP, W3C Trace Context. One Docker command to run.
+- [**oauth2-jwt-resource-server**](https://github.com/NullPoint3rDev/oauth2-jwt-resource-server.git) - Spring Boot 3 OAuth2 Resource Server — JWT validation, Keycloak, role-based access (RBAC). Docker Compose ready.
 
 ---
 
