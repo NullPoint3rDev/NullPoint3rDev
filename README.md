@@ -70,6 +70,7 @@ Focused on **cloud-native** Java, **concurrency**, and **observability**.
 - [**transactional-outbox-cdc**](https://github.com/NullPoint3rDev/transactional-outbox-cdc.git) - Transactional Outbox pattern with CDC: Spring Boot, Debezium, Kafka, PostgreSQL. One transaction → outbox → Kafka → consumer. Docker Compose, Prometheus, Grafana.
 - [**distributed-tracing**](https://github.com/NullPoint3rDev/distributed-tracing.git) - Distributed tracing demo with OpenTelemetry and Jaeger — 3 microservices, OTLP, W3C Trace Context. One Docker command to run.
 - [**oauth2-jwt-resource-server**](https://github.com/NullPoint3rDev/oauth2-jwt-resource-server.git) - Spring Boot 3 OAuth2 Resource Server — JWT validation, Keycloak, role-based access (RBAC). Docker Compose ready.
+- [**graalvm-native-microservice**](https://github.com/NullPoint3rDev/graalvm-native-microservice.git) - Spring Boot microservice compiled to a native executable with GraalVM Native Image. Sub-second startup, Docker one-command run.
 
 ---
 
