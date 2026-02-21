@@ -72,6 +72,7 @@ Focused on **cloud-native** Java, **concurrency**, and **observability**.
 - [**oauth2-jwt-resource-server**](https://github.com/NullPoint3rDev/oauth2-jwt-resource-server.git) - Spring Boot 3 OAuth2 Resource Server — JWT validation, Keycloak, role-based access (RBAC). Docker Compose ready.
 - [**graalvm-native-microservice**](https://github.com/NullPoint3rDev/graalvm-native-microservice.git) - Spring Boot microservice compiled to a native executable with GraalVM Native Image. Sub-second startup, Docker one-command run.
 - [**virtual-threads**](https://github.com/NullPoint3rDev/virtual-threads.git) - Java 21 Virtual Threads & Structured Concurrency (JEP 453) demo with Spring Boot 3.2 — parallel API aggregation, timeout, cancellation.
+- [**kafka-streams-idempotent-consumer**](https://github.com/NullPoint3rDev/kafka-streams-idempotent-consumer.git) - Kafka Streams + idempotent consumer demo: stream processing and exactly-once semantics with Spring Boot and PostgreSQL
 
 ---
 
