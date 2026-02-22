@@ -74,6 +74,7 @@ Focused on **cloud-native** Java, **concurrency**, and **observability**.
 - [**virtual-threads**](https://github.com/NullPoint3rDev/virtual-threads.git) - Java 21 Virtual Threads & Structured Concurrency (JEP 453) demo with Spring Boot 3.2 — parallel API aggregation, timeout, cancellation.
 - [**kafka-streams-idempotent-consumer**](https://github.com/NullPoint3rDev/kafka-streams-idempotent-consumer.git) - Kafka Streams + idempotent consumer demo: stream processing and exactly-once semantics with Spring Boot and PostgreSQL
 - [**kubernetes-native-service**](https://github.com/NullPoint3rDev/kubernetes-native-service.git) - Spring Boot microservice ready for Kubernetes: liveness/readiness probes, ConfigMap, Deployment, Service. Java 21, Docker, kubectl.
+- [**hexagonal-clean-architecture**](https://github.com/NullPoint3rDev/hexagonal-clean-architecture.git) - A production-style demo of Hexagonal Architecture on Java 21 & Spring Boot 3: domain at the centre, REST and JPA as adapters, unit and integration tests, Docker one-liner.
 
 ---
 
