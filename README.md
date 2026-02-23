@@ -75,6 +75,7 @@ Focused on **cloud-native** Java, **concurrency**, and **observability**.
 - [**kafka-streams-idempotent-consumer**](https://github.com/NullPoint3rDev/kafka-streams-idempotent-consumer.git) - Kafka Streams + idempotent consumer demo: stream processing and exactly-once semantics with Spring Boot and PostgreSQL
 - [**kubernetes-native-service**](https://github.com/NullPoint3rDev/kubernetes-native-service.git) - Spring Boot microservice ready for Kubernetes: liveness/readiness probes, ConfigMap, Deployment, Service. Java 21, Docker, kubectl.
 - [**hexagonal-clean-architecture**](https://github.com/NullPoint3rDev/hexagonal-clean-architecture.git) - A production-style demo of Hexagonal Architecture on Java 21 & Spring Boot 3: domain at the centre, REST and JPA as adapters, unit and integration tests, Docker one-liner.
+- [**graphql-spring-api**](https://github.com/NullPoint3rDev/graphql-spring-api.git) - Production-style GraphQL API on Java 21 & Spring Boot: Book/Author model, queries & mutations, @BatchMapping for N+1, integration & unit tests, Docker one-command run.
 
 ---
 
