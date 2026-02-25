@@ -77,6 +77,7 @@ Focused on **cloud-native** Java, **concurrency**, and **observability**.
 - [**hexagonal-clean-architecture**](https://github.com/NullPoint3rDev/hexagonal-clean-architecture.git) - A production-style demo of Hexagonal Architecture on Java 21 & Spring Boot 3: domain at the centre, REST and JPA as adapters, unit and integration tests, Docker one-liner.
 - [**graphql-spring-api**](https://github.com/NullPoint3rDev/graphql-spring-api.git) - Production-style GraphQL API on Java 21 & Spring Boot: Book/Author model, queries & mutations, @BatchMapping for N+1, integration & unit tests, Docker one-command run.
 - [**realtime-events-service**](https://github.com/NullPoint3rDev/realtime-events-service.git) - Real-time backend with SSE and WebSocket (STOMP). Spring Boot 3, Java 21. One-command Docker run.
+- [**reactive-webflux-r2dbc-kafka**](https://github.com/NullPoint3rDev/reactive-webflux-r2dbc-kafka.git) - Reactive Spring Boot microservice: WebFlux, R2DBC (PostgreSQL), and Reactor Kafka. Non-blocking REST, event-driven orders, Docker Compose.
 
 ---
 
