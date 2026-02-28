@@ -79,6 +79,7 @@ Focused on **cloud-native** Java, **concurrency**, and **observability**.
 - [**realtime-events-service**](https://github.com/NullPoint3rDev/realtime-events-service.git) - Real-time backend with SSE and WebSocket (STOMP). Spring Boot 3, Java 21. One-command Docker run.
 - [**reactive-webflux-r2dbc-kafka**](https://github.com/NullPoint3rDev/reactive-webflux-r2dbc-kafka.git) - Reactive Spring Boot microservice: WebFlux, R2DBC (PostgreSQL), and Reactor Kafka. Non-blocking REST, event-driven orders, Docker Compose.
 - [**idempotent-rest-api**](https://github.com/NullPoint3rDev/idempotent-rest-api.git) - Idempotent REST API with Redis — Idempotency-Key header, duplicate request handling, Spring Boot 21 & Docker Compose
+- [**pact-consumer-driven-contracts**](https://github.com/NullPoint3rDev/pact-consumer-driven-contracts.git) - Consumer-driven contract testing demo with Pact JVM: consumer generates pacts, provider verifies them (Spring Boot 3, Java 21)
 
 ---
 
