@@ -80,6 +80,7 @@ Focused on **cloud-native** Java, **concurrency**, and **observability**.
 - [**reactive-webflux-r2dbc-kafka**](https://github.com/NullPoint3rDev/reactive-webflux-r2dbc-kafka.git) - Reactive Spring Boot microservice: WebFlux, R2DBC (PostgreSQL), and Reactor Kafka. Non-blocking REST, event-driven orders, Docker Compose.
 - [**idempotent-rest-api**](https://github.com/NullPoint3rDev/idempotent-rest-api.git) - Idempotent REST API with Redis — Idempotency-Key header, duplicate request handling, Spring Boot 21 & Docker Compose
 - [**pact-consumer-driven-contracts**](https://github.com/NullPoint3rDev/pact-consumer-driven-contracts.git) - Consumer-driven contract testing demo with Pact JVM: consumer generates pacts, provider verifies them (Spring Boot 3, Java 21)
+- [**audit-spring-boot-starter**](https://github.com/NullPoint3rDev/audit-spring-boot-starter.git) - Spring Boot Starter for method-level audit logging. @Audited annotation, pluggable sinks (log/DB/Kafka), auto-configuration, no Spring Security required.
 
 ---
 
