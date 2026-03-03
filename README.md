@@ -82,6 +82,7 @@ Focused on **cloud-native** Java, **concurrency**, and **observability**.
 - [**pact-consumer-driven-contracts**](https://github.com/NullPoint3rDev/pact-consumer-driven-contracts.git) - Consumer-driven contract testing demo with Pact JVM: consumer generates pacts, provider verifies them (Spring Boot 3, Java 21)
 - [**audit-spring-boot-starter**](https://github.com/NullPoint3rDev/audit-spring-boot-starter.git) - Spring Boot Starter for method-level audit logging. @Audited annotation, pluggable sinks (log/DB/Kafka), auto-configuration, no Spring Security required.
 - [**temporal-workflow-engine**](https://github.com/NullPoint3rDev/temporal-workflow-engine.git) - Cloud-native workflow service with Temporal and Spring Boot. Start durable workflows via REST; worker runs activities with timeouts and retries.
+- [**serverless-java-lambda**](https://github.com/NullPoint3rDev/serverless-java-lambda.git) - AWS Lambda in Java 21 — REST-style order API with API Gateway, single handler, JSON, JUnit 5 & Mockito.
 
 ---
 
