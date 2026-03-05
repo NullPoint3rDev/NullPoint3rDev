@@ -84,6 +84,7 @@ Focused on **cloud-native** Java, **concurrency**, and **observability**.
 - [**temporal-workflow-engine**](https://github.com/NullPoint3rDev/temporal-workflow-engine.git) - Cloud-native workflow service with Temporal and Spring Boot. Start durable workflows via REST; worker runs activities with timeouts and retries.
 - [**serverless-java-lambda**](https://github.com/NullPoint3rDev/serverless-java-lambda.git) - AWS Lambda in Java 21 — REST-style order API with API Gateway, single handler, JSON, JUnit 5 & Mockito.
 - [**feature-flags-microservice**](https://github.com/NullPoint3rDev/feature-flags-microservice.git) - REST API for feature flags — Spring Boot 3, Java 21, JPA/H2, Docker. Create and evaluate flags by key.
+- [**spring-batch-multithreading-cloud**](https://github.com/NullPoint3rDev/spring-batch-multithreading-cloud.git) - Spring Batch demo: partitioned multi-threaded CSV processing with S3/MinIO. Run app + MinIO with one Docker command.
 
 ---
 
