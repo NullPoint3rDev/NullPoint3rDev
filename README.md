@@ -85,6 +85,7 @@ Focused on **cloud-native** Java, **concurrency**, and **observability**.
 - [**serverless-java-lambda**](https://github.com/NullPoint3rDev/serverless-java-lambda.git) - AWS Lambda in Java 21 — REST-style order API with API Gateway, single handler, JSON, JUnit 5 & Mockito.
 - [**feature-flags-microservice**](https://github.com/NullPoint3rDev/feature-flags-microservice.git) - REST API for feature flags — Spring Boot 3, Java 21, JPA/H2, Docker. Create and evaluate flags by key.
 - [**spring-batch-multithreading-cloud**](https://github.com/NullPoint3rDev/spring-batch-multithreading-cloud.git) - Spring Batch demo: partitioned multi-threaded CSV processing with S3/MinIO. Run app + MinIO with one Docker command.
+- [**database-per-service-bff**](https://github.com/NullPoint3rDev/database-per-service-bff.git) - Java 21 / Spring Boot 3 microservices demo showcasing the Database-per-Service pattern with a Backend-for-Frontend (BFF) and Docker Compose.
 
 ---
 
